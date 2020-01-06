@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background: #f5cd79;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-card {
+    width: 420px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.top-section {
+    padding: 70px 40px;
+    background: #f7d794aa;
+    border-bottom: 1px solid #f5cd79;
+}
+.message, .notif {
+    position: absolute;
+    top: 40px;
+}
+.message {
+    right: 40px;
+    color: #f7a800;
+}
+.name {
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 60px;
+}
+.bottom-section {
+    padding: 60px 40px;
+    background: #f7d794bb;
+}
+.pic {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1px solid #fcbd37;
+    border-radius: 50%;
+    padding: 8px;
+}
+.pic:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border: 1px solid #fcbd37;
+    left: 0;
+    top: 0;
+    box-sizing: border-box;
+    border-radius: 50%;
+    animation: wave 1.5s infinite linear;
+}
+.pic img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+@keyframes wave {
+        to {
+            transform: scale(1.5);
+            opacity: 0;
+        }
+}
