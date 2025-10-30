@@ -29,7 +29,7 @@ Zapisz go np. na Pulpicie lub w folderze „Pobrane”.
 
 1. Wciśnij **Win + R**  
 2. Wpisz:
-`%appdata%.minecraft`
+`%appdata%/minecraft`
 
 
 3. Kliknij **Enter**
