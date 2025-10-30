@@ -81,7 +81,7 @@ Po wczytaniu kliknij przycisk **„Mody”**, aby upewnić się, że wszystko je
 
 1. Wybierz **Tryb wieloosobowy (Multiplayer)**  
 2. Kliknij **„Dodaj serwer”**
-3. Wpisz adres: ``**nikolciowo.kinetichosting.gg**``
+3. Wpisz adres: **nikolciowo.kinetichosting.gg**
 
 
 4. Kliknij **Połącz**
@@ -96,18 +96,6 @@ Po wczytaniu kliknij przycisk **„Mody”**, aby upewnić się, że wszystko je
 Pozwala **zaznaczać i chronić swój teren** przed innymi graczami.  
 Otwórz mapę klawiszem `M`, wybierz obszar i oznacz go jako swój.  
 Żaden gracz nie może niszczyć ani otwierać skrzyń na Twoim terenie bez Twojej zgody.
-
-### 🔐 SimpleLogin
-Chroni Twoje konto, jeśli grasz na **wersji non-premium**.  
-Przy pierwszym wejściu wpisz:
-/register hasło hasło
-
-
-Potem przy każdym logowaniu:
-/login hasło
-
-
-> 💡 Nie podawaj swojego hasła nikomu — nawet administratorowi.
 
 ---
 
