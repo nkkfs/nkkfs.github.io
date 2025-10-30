@@ -81,8 +81,7 @@ Po wczytaniu kliknij przycisk **„Mody”**, aby upewnić się, że wszystko je
 
 1. Wybierz **Tryb wieloosobowy (Multiplayer)**  
 2. Kliknij **„Dodaj serwer”**
-3. Wpisz adres:
-nikolciowo.kinetichosting.gg
+3. Wpisz adres: ``**nikolciowo.kinetichosting.gg**``
 
 
 4. Kliknij **Połącz**
